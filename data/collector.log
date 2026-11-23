@@ -1,0 +1,90 @@
+2026-03-17 13:57:58,485 | INFO | Starting discovery...
+2026-03-17 13:57:59,722 | INFO | Discovered 1 sitemap(s) for https://medlineplus.gov
+2026-03-17 13:58:00,937 | INFO | Sitemaps yielded 1500 URLs for https://medlineplus.gov
+2026-03-17 13:58:02,388 | INFO | Discovered 1 sitemap(s) for https://www.cdc.gov
+2026-03-17 13:58:04,776 | WARNING | Failed parsing sitemap XML: EntityRef: expecting ';', line 21, column 79 (<string>, line 21)
+2026-03-17 13:58:07,077 | WARNING | GET https://www.cdc.gov/contact/wcms-auto-sitemap.xml -> 404
+2026-03-17 13:58:09,602 | WARNING | GET https://www.cdc.gov/covid19-school-testing/wcms-auto-sitemap.xml -> 404
+2026-03-17 13:58:11,964 | WARNING | GET https://www.cdc.gov/covidtreatment/wcms-auto-sitemap.xml -> 404
+2026-03-17 13:58:14,394 | WARNING | GET https://www.cdc.gov/covidvaccines/wcms-auto-sitemap.xml -> 404
+2026-03-17 13:58:16,753 | WARNING | GET https://www.cdc.gov/other/wcms-auto-sitemap.xml -> 404
+2026-03-17 13:58:19,165 | WARNING | GET https://www.cdc.gov/protect-children/wcms-auto-sitemap.xml -> 404
+2026-03-17 13:58:21,589 | WARNING | GET https://www.cdc.gov/search/wcms-auto-sitemap.xml -> 404
+2026-03-17 13:58:23,999 | WARNING | GET https://www.cdc.gov/tratamientoscovid/wcms-auto-sitemap.xml -> 404
+2026-03-17 13:58:59,730 | INFO | Sitemaps yielded 1500 URLs for https://www.cdc.gov
+2026-03-17 13:59:01,109 | INFO | Discovered 1 sitemap(s) for https://www.entnet.org
+2026-03-17 13:59:05,795 | INFO | Sitemaps yielded 1500 URLs for https://www.entnet.org
+2026-03-17 13:59:05,809 | INFO | Total candidates from sitemaps (prefiltered): 18
+2026-03-17 14:01:48,914 | INFO | Seed crawl discovered 118 candidates | html pages crawled=120
+2026-03-17 14:01:48,917 | INFO | Total candidate URLs to fetch: 62
+2026-03-17 14:01:48,917 | INFO | [1/62] Fetching https://www.entnet.org/wp-content/uploads/photo-gallery/imported_from_media_libray/CPG_Adult-Sinusitis-Update_SM_V3__4-scaled.png
+2026-03-17 14:01:50,213 | INFO | [2/62] Fetching https://www.entnet.org/ice/world-sinus-health-awareness-day-is-september-13/
+2026-03-17 14:01:52,980 | INFO | [3/62] Fetching https://www.entnet.org/ice/september-13-world-sinus-health-awareness-day/
+2026-03-17 14:01:54,931 | INFO | [4/62] Fetching https://www.entnet.org/wp-content/uploads/photo-gallery/imported_from_media_libray/CPG_Adult-Sinusitis-Update_SM_V3__1-scaled.png
+2026-03-17 14:01:56,165 | INFO | [5/62] Fetching https://www.entnet.org/ice/some-sinus-relief-for-cystic-fibrosis-patients-on-trikafta/
+2026-03-17 14:01:58,463 | INFO | [6/62] Fetching https://www.entnet.org/about-us/campaigns/world-sinus-health-awareness-month/
+2026-03-17 14:01:59,568 | INFO | [7/62] Fetching https://medlineplus.gov/sinusitis.html
+2026-03-17 14:02:00,706 | INFO | [8/62] Fetching https://www.entnet.org/wp-content/uploads/photo-gallery/imported_from_media_libray/CPG_Adult-Sinusitis-Update_SM_V3-08-scaled.png
+2026-03-17 14:02:02,079 | INFO | [9/62] Fetching https://www.entnet.org/wp-content/uploads/photo-gallery/imported_from_media_libray/CPG_Adult-Sinusitis-Update_SM_V3__7-scaled.png
+2026-03-17 14:02:03,377 | INFO | [10/62] Fetching https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/cpg-surgical-management-of-chronic-rhinosinusitis/
+2026-03-17 14:02:04,556 | INFO | [11/62] Fetching https://www.entnet.org/wp-content/uploads/photo-gallery/imported_from_media_libray/CPG_Adult-Sinusitis-Update_SM_V3__6-scaled.png
+2026-03-17 14:02:05,868 | INFO | [12/62] Fetching https://www.entnet.org/wp-content/uploads/photo-gallery/imported_from_media_libray/CPG_Adult-Sinusitis-Update_SM_V3__5-scaled.png
+2026-03-17 14:02:07,159 | INFO | [13/62] Fetching https://www.entnet.org/wp-content/uploads/photo-gallery/imported_from_media_libray/CPG_Adult-Sinusitis-Update_SM_V3__3-scaled.png
+2026-03-17 14:02:08,420 | INFO | [14/62] Fetching https://www.entnet.org/wp-content/uploads/photo-gallery/imported_from_media_libray/CPG_Adult-Sinusitis-Update_SM_V3__2-scaled.png
+2026-03-17 14:02:09,725 | INFO | [15/62] Fetching https://medlineplus.gov/antibiotics.html
+2026-03-17 14:02:10,940 | INFO | [16/62] Fetching https://www.entnet.org/ice/minimal-benefit-seen-with-antibiotics-for-acute-sinusitis-in-kids/
+2026-03-17 14:02:13,007 | INFO | [17/62] Fetching https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/cpg-adult-sinusitis/
+2026-03-17 14:02:14,179 | INFO | [18/62] Fetching https://www.entnet.org/ice/year-round-resources-for-sinus-patient/
+2026-03-17 14:02:15,465 | INFO | [19/62] Fetching https://www.entnet.org/wp-content/uploads/2021/12/2020_AnnualReport.pdf
+2026-03-17 14:02:16,897 | INFO | [20/62] Fetching https://www.cdc.gov/common-cold/media/pdfs/2026/03/BAA_Common-Cold_Final-508.pdf
+2026-03-17 14:02:18,364 | INFO | [21/62] Fetching https://www.entnet.org/wp-content/uploads/2025/07/CPG_ASU_SummaryGuide_V3.pdf
+2026-03-17 14:02:19,916 | INFO | [22/62] Fetching https://www.cdc.gov/nchs/data/ahcd/namcs_summary/2018-namcs-web-tables-508.pdf
+2026-03-17 14:02:21,336 | INFO | [23/62] Fetching https://www.entnet.org/wp-content/uploads/2024/12/2024-AnnualReport-Final.pdf
+2026-03-17 14:02:22,613 | INFO | [24/62] Fetching https://www.entnet.org/wp-content/uploads/2025/07/CPG-AdultSinusitisUpdate_TreatingABRS_V5-1.pdf
+2026-03-17 14:02:24,096 | INFO | [25/62] Fetching https://www.entnet.org/wp-content/uploads/2025/10/Template-Letter-CT-Scan-for-Chronic-Sinusitis.pdf
+2026-03-17 14:02:25,334 | INFO | [26/62] Fetching https://www.cdc.gov/naegleria/media/pdfs/SafeNasalRinsingUrdu.pdf
+2026-03-17 14:02:26,714 | INFO | [27/62] Fetching https://www.entnet.org/wp-content/uploads/2021/12/2021_AnnualReport.pdf
+2026-03-17 14:02:28,163 | INFO | [28/62] Fetching https://www.entnet.org/wp-content/uploads/2021/04/enthealth_sleepjournal_final.pdf
+2026-03-17 14:02:29,320 | INFO | [29/62] Fetching https://www.entnet.org/wp-content/uploads/2025/08/2025_About-World-Sinus-Health-Awareness_Month_FINAL.pdf
+2026-03-17 14:02:30,562 | INFO | [30/62] Fetching https://www.cdc.gov/common-cold/media/pdfs/2024/04/CommonCold_fact_sheet_508.pdf
+2026-03-17 14:02:31,688 | INFO | [31/62] Fetching https://www.cdc.gov/naegleria/media/pdfs/naegleria-ritual-ablution-factsheet.pdf
+2026-03-17 14:02:32,804 | INFO | [32/62] Fetching https://www.cdc.gov/ear-infection/media/pdfs/Ear-Infection-508.pdf
+2026-03-17 14:02:34,035 | INFO | [33/62] Fetching https://www.entnet.org/wp-content/uploads/2025/08/2025WSHAM_Poster_M.pdf
+2026-03-17 14:02:35,535 | INFO | [34/62] Fetching https://www.entnet.org/wp-content/uploads/2021/12/2019AnnualReport.pdf
+2026-03-17 14:02:36,885 | INFO | [35/62] Fetching https://www.cdc.gov/antibiotic-use/media/pdfs/Skin-Infection-FS-508.pdf
+2026-03-17 14:02:38,265 | INFO | [36/62] Fetching https://www.entnet.org/wp-content/uploads/2025/07/CPG-AdultSinusitisUpdate_Diagnosis_V5.pdf
+2026-03-17 14:02:39,789 | INFO | [37/62] Fetching https://www.cdc.gov/nchs/fastats/sinuses.htm
+2026-03-17 14:02:40,881 | INFO | [38/62] Fetching https://www.entnet.org/wp-content/uploads/2025/08/Glossary-of-Terms_FINAL.pdf
+2026-03-17 14:02:42,113 | INFO | [39/62] Fetching https://www.entnet.org/wp-content/uploads/2025/07/CPG-AdultSinusitisUpdate_TreatingABRS_spa_V2.pdf
+2026-03-17 14:02:43,711 | INFO | [40/62] Fetching https://www.cdc.gov/naegleria/prevention/sinus-rinsing.html
+2026-03-17 14:02:44,774 | INFO | [41/62] Fetching https://www.entnet.org/wp-content/uploads/2022/03/Academy-Member-Donors-2021.pdf
+2026-03-17 14:02:46,148 | INFO | [42/62] Fetching https://www.entnet.org/wp-content/uploads/2024/03/AAOHNS-Membership-Benefits-V5.pdf
+2026-03-17 14:02:47,302 | INFO | [43/62] Fetching https://www.entnet.org/wp-content/uploads/2025/07/CPG-AdultSinusitisUpdate_Diagnosis_spa_V2.pdf
+2026-03-17 14:02:48,836 | INFO | [44/62] Fetching https://www.cdc.gov/sinus-infection/about/index.html
+2026-03-17 14:02:49,950 | INFO | [45/62] Fetching https://www.entnet.org/wp-content/uploads/2021/04/aao-hnsf_10things_list_2019_update.pdf
+2026-03-17 14:02:51,248 | INFO | [46/62] Fetching https://www.entnet.org/wp-content/uploads/2025/08/2025WSHAM_Poster_L.pdf
+2026-03-17 14:02:52,802 | INFO | [47/62] Fetching https://www.entnet.org/wp-content/uploads/2025/08/Manager_Digital_Learning_Job_Post_June_2025.pdf
+2026-03-17 14:02:53,940 | INFO | [48/62] Fetching https://www.cdc.gov/acute-bronchitis/media/pdfs/Bronchitis-508.pdf
+2026-03-17 14:02:56,124 | INFO | [49/62] Fetching https://www.entnet.org/wp-content/uploads/2022/08/CPG_AllergicRhinitis_HistoryPhysicalFindings_2022.pdf
+2026-03-17 14:02:57,645 | INFO | [50/62] Fetching https://www.entnet.org/wp-content/uploads/2025/08/2025WSHAM_Poster_S.pdf
+2026-03-17 14:02:59,362 | INFO | [51/62] Fetching https://www.entnet.org/wp-content/uploads/2021/04/code_for_interactions_with_companies_2018.pdf
+2026-03-17 14:03:00,640 | WARNING | Ignoring wrong pointing object 8 0 (offset 0)
+2026-03-17 14:03:00,640 | WARNING | Ignoring wrong pointing object 10 0 (offset 0)
+2026-03-17 14:03:00,640 | WARNING | Ignoring wrong pointing object 12 0 (offset 0)
+2026-03-17 14:03:00,640 | WARNING | Ignoring wrong pointing object 14 0 (offset 0)
+2026-03-17 14:03:00,640 | WARNING | Ignoring wrong pointing object 30 0 (offset 0)
+2026-03-17 14:03:00,641 | WARNING | Ignoring wrong pointing object 32 0 (offset 0)
+2026-03-17 14:03:00,641 | WARNING | Ignoring wrong pointing object 44 0 (offset 0)
+2026-03-17 14:03:01,012 | INFO | [52/62] Fetching https://www.cdc.gov/sinus-infection/about/
+2026-03-17 14:03:02,063 | INFO | [53/62] Fetching https://www.entnet.org/wp-content/uploads/2022/12/2022-AnnualReport-Web.pdf
+2026-03-17 14:03:03,455 | INFO | [54/62] Fetching https://www.entnet.org/wp-content/uploads/2025/07/CPG-AdultSinusitisUpdate_Flowchart_V13.pdf
+2026-03-17 14:03:04,783 | INFO | [55/62] Fetching https://www.entnet.org/wp-content/uploads/2023/12/2023-AnnualReport.pdf
+2026-03-17 14:03:06,007 | INFO | [56/62] Fetching https://www.entnet.org/wp-content/uploads/2025/07/AAO_HNS-Partnership-Manager.pdf
+2026-03-17 14:03:07,175 | INFO | [57/62] Fetching https://www.entnet.org/wp-content/uploads/2025/12/2025-FinancialReport.pdf
+2026-03-17 14:03:08,503 | INFO | [58/62] Fetching https://www.cdc.gov/naegleria/media/pdfs/SafeNasalRinsingArabic.pdf
+2026-03-17 14:03:09,855 | INFO | [59/62] Fetching https://www.entnet.org/wp-content/uploads/2022/08/Sinus_Disease_and_Disorders_2021.pdf
+2026-03-17 14:03:11,040 | INFO | [60/62] Fetching https://www.entnet.org/wp-content/uploads/2025/02/2025_MembershipApplication.pdf
+2026-03-17 14:03:12,398 | INFO | [61/62] Fetching https://www.entnet.org/wp-content/uploads/2025/08/WSHAD_2025_sample_patient_letter.pdf
+2026-03-17 14:03:13,831 | INFO | [62/62] Fetching https://www.cdc.gov/antibiotic-use/media/pdfs/Runny-Nose-508.pdf
+2026-03-17 14:03:15,070 | INFO | Done.
+2026-03-17 14:03:15,071 | INFO | Summary: {'not_relevant': 46, 'duplicate_content': 4, 'saved_html': 4, 'saved_pdf': 8}

@@ -1,0 +1,11 @@
+# all the dependencies for the project
+beautifulsoup4
+lxml
+pypdf
+langchain
+langchain-text-splitters
+langchain-google-genai
+google-genai
+trafilatura
+boto3
+chromadb
